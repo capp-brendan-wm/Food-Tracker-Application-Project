@@ -1,13 +1,13 @@
 #data {
-    background-color: ghostwhite;
+    background-image: url("http://www.lavocedelgattopardo.com/wp-content/uploads/2014/06/Junk-food-2.jpg");
 }
 #thingyy {
-    background-color: ghostwhite;
+    background-color: gray;
 }
 #thingyyy {
-    background-color: ghostwhite;
+    background-color: gray;
 }
-#List {
-    background-color: ghostwhite;
+#savedFoods {
+    background-color: gray;
     border: 3px solid black;
 }
